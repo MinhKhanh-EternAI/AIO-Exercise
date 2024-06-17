@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "minhkhanh-eternai",
+        "projectKey": "MinhKhanh-EternAI_AIO-Exercise"
+    }
+}
